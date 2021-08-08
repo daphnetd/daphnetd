@@ -18,6 +18,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [daphne97](https://github.com/daphne97)
 - [danhhhh](https://github.com/danhhhh)
 
 #### 💬 Feedback
