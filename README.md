@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**daphnetd/daphnetd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👷 Check out what I'm currently working on
 
-Here are some ideas to get you started:
+#### 🔨 My recent Pull Requests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### ⭐ Recent Stars
+
+- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance (today)
+- [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier (2 years ago)
+- [boringPpl/deeplearning-roadmap](https://github.com/boringPpl/deeplearning-roadmap) - Deep Learning path with multiple notebooks (2 years ago)
+- [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer. (2 years ago)
+- [daphnetd/data-science-roadmap](https://github.com/daphnetd/data-science-roadmap) -  (3 years ago)
+- [boringPpl/data-science-roadmap](https://github.com/boringPpl/data-science-roadmap) - Learning from multiple companies in Silicon Valley. Netflix, Facebook, Google, Startups (3 years ago)
+- [daphnetd/data-engineer-roadmap](https://github.com/daphnetd/data-engineer-roadmap) - Learning from multiple companies in Silicon Valley. Netflix, Facebook, Google, Startups  (3 years ago)
+- [boringPpl/data-engineer-roadmap](https://github.com/boringPpl/data-engineer-roadmap) - Learning from multiple companies in Silicon Valley. Netflix, Facebook, Google, Startups  (3 years ago)
+
+#### 👯 Check out some of my recent followers
+
+- [danhhhh](https://github.com/danhhhh)
+
+#### 💬 Feedback
+
+Say Hello, I don't bite!
