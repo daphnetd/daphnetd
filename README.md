@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance (today)
+- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance (1 day ago)
 - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier (2 years ago)
 - [boringPpl/deeplearning-roadmap](https://github.com/boringPpl/deeplearning-roadmap) - Deep Learning path with multiple notebooks (2 years ago)
 - [ZuzooVn/machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer. (2 years ago)
@@ -18,6 +18,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [logit507](https://github.com/logit507)
 - [daphne97](https://github.com/daphne97)
 - [danhhhh](https://github.com/danhhhh)
 
