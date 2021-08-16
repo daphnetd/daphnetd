@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (4 days ago)
+- [syncfast/clockwise](https://github.com/syncfast/clockwise) - Clockwise is a meeting cost calculator designed to encourage more efficient meetings. (today)
+- [0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727) - 信息收集自动化工具 (5 days ago)
 - [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) - UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance (1 week ago)
 - [guillaume-chevalier/Awesome-Deep-Learning-Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) - Rough list of my favorite deep learning resources, useful for revisiting topics or for reference. I have got through all of the content listed there, carefully. - Guillaume Chevalier (2 years ago)
 - [boringPpl/deeplearning-roadmap](https://github.com/boringPpl/deeplearning-roadmap) - Deep Learning path with multiple notebooks (2 years ago)
