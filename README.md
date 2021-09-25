@@ -7,15 +7,15 @@
 
 #### ⭐ Recent Stars
 
-- [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (3 days ago)
-- [EtherDream/web2img](https://github.com/EtherDream/web2img) - This is the real WebPack (6 days ago)
+- [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (4 days ago)
+- [EtherDream/web2img](https://github.com/EtherDream/web2img) - This is the real WebPack (1 week ago)
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password. (1 week ago)
 - [CyberPunkMetalHead/binance-trading-bot-new-coins](https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins) - This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave. (2 weeks ago)
 - [LingDong-/fishdraw](https://github.com/LingDong-/fishdraw) - procedurally generated fish drawings (2 weeks ago)
 - [PeterWang512/GANSketching](https://github.com/PeterWang512/GANSketching) - Sketch Your Own GAN: Customizing a GAN model with hand-drawn sketches. (3 weeks ago)
 - [anishathalye/neural-hash-collider](https://github.com/anishathalye/neural-hash-collider) - Preimage attack against NeuralHash 💣 (3 weeks ago)
 - [klezVirus/inceptor](https://github.com/klezVirus/inceptor) - Template-Driven AV/EDR Evasion Framework (3 weeks ago)
-- [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) - The Machine Learning &amp; Deep Learning Compendium is an open knowledge-sharing project compiled using Gitbook. (3 weeks ago)
+- [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) - The Machine Learning &amp; Deep Learning Compendium is an open knowledge-sharing project compiled using Gitbook. (4 weeks ago)
 - [knosmos/cmdpxl](https://github.com/knosmos/cmdpxl) - totally practical command-line image editor (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
