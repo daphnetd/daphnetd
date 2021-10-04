@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [andrecronje/rarity](https://github.com/andrecronje/rarity) - d20srd reference implementation codified in solidity (1 day ago)
-- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂 (3 days ago)
+- [andrecronje/rarity](https://github.com/andrecronje/rarity) - d20srd reference implementation codified in solidity (2 days ago)
+- [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - The Tiny JavaScript Game Engine That Can! 🚂 (4 days ago)
 - [phoboslab/q1k3](https://github.com/phoboslab/q1k3) - A tiny FPS for js13k (1 week ago)
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - This is the real WebPack (2 weeks ago)
 - [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password. (2 weeks ago)
