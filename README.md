@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader (today)
-- [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) -  (4 days ago)
+- [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader (1 day ago)
+- [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) -  (5 days ago)
 - [Harsha200105/DesktopAssistant](https://github.com/Harsha200105/DesktopAssistant) - A Virtual Desktop Assistant Written in Python (1 week ago)
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms (1 week ago)
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘  (1 week ago)
