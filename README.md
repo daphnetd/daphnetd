@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [googleprojectzero/weggli](https://github.com/googleprojectzero/weggli) - weggli is a fast and robust semantic search tool for C and C&#43;&#43; codebases. It is designed to help security researchers identify interesting functionality in large codebases. (3 days ago)
-- [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars. (5 days ago)
+- [googleprojectzero/weggli](https://github.com/googleprojectzero/weggli) - weggli is a fast and robust semantic search tool for C and C&#43;&#43; codebases. It is designed to help security researchers identify interesting functionality in large codebases. (4 days ago)
+- [Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar) - 🪄 An online tool for making notion-style avatars. (6 days ago)
 - [lukeed/tsm](https://github.com/lukeed/tsm) - TypeScript Module Loader (1 week ago)
 - [WorkerLivesMatter/WorkingTime](https://github.com/WorkerLivesMatter/WorkingTime) -  (1 week ago)
 - [Harsha200105/DesktopAssistant](https://github.com/Harsha200105/DesktopAssistant) - A Virtual Desktop Assistant Written in Python (2 weeks ago)
