@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend you have the latest MacBook Pro! (4 days ago)
+- [megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend you have the latest MacBook Pro! (5 days ago)
 - [ApsaraDB/galaxysql](https://github.com/ApsaraDB/galaxysql) - PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios. (1 week ago)
 - [zhaoolee/pi](https://github.com/zhaoolee/pi) - 树莓派防吃灰小分队，让树莓派不再吃灰~ (1 week ago)
 - [foxsen/archbase](https://github.com/foxsen/archbase) - 教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本 (1 week ago)
