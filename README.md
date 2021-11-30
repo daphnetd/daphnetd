@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis (today)
-- [s9w/oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output (2 days ago)
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes (3 days ago)
-- [r0eXpeR/supplier](https://github.com/r0eXpeR/supplier) - 主流供应商的一些攻击性漏洞汇总 (4 days ago)
-- [stevenlei/spacingjs](https://github.com/stevenlei/spacingjs) - A JavaScript utility for measuring the spacing between elements on webpage. (6 days ago)
+- [microsoft/NUWA](https://github.com/microsoft/NUWA) - A unified 3D Transformer Pipeline for visual synthesis (1 day ago)
+- [s9w/oof](https://github.com/s9w/oof) - Convenient, high-performance RGB color and position control for console output (3 days ago)
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes (4 days ago)
+- [r0eXpeR/supplier](https://github.com/r0eXpeR/supplier) - 主流供应商的一些攻击性漏洞汇总 (5 days ago)
+- [stevenlei/spacingjs](https://github.com/stevenlei/spacingjs) - A JavaScript utility for measuring the spacing between elements on webpage. (1 week ago)
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support. (1 week ago)
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (1 week ago)
 - [megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend you have the latest MacBook Pro! (2 weeks ago)
