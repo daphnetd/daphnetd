@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (5 days ago)
-- [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (6 days ago)
+- [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (6 days ago)
+- [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (1 week ago)
 - [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics. (1 week ago)
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules (1 week ago)
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more. (1 week ago)
