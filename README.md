@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android (2 days ago)
+- [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android (3 days ago)
 - [cybersecsi/HOUDINI](https://github.com/cybersecsi/HOUDINI) - Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all. (2 weeks ago)
 - [Telethon-helper/Help](https://github.com/Telethon-helper/Help) -  (2 weeks ago)
 - [akutz/go-generics-the-hard-way](https://github.com/akutz/go-generics-the-hard-way) - A hands-on approach to getting started with Go generics. (2 weeks ago)
