@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [stop-war-in-ukraine/stop-russia-it](https://github.com/stop-war-in-ukraine/stop-russia-it) - An open letter from IT industry specialists to protect Ukraine from information warfare. Відкритий лист спеціалістів IT-індустрії на захист України від інформаційної війни. (6 days ago)
+- [stop-war-in-ukraine/stop-russia-it](https://github.com/stop-war-in-ukraine/stop-russia-it) - An open letter from IT industry specialists to protect Ukraine from information warfare. Відкритий лист спеціалістів IT-індустрії на захист України від інформаційної війни. (1 week ago)
 - [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager (1 week ago)
 - [midarrlabs/midarr-server](https://github.com/midarrlabs/midarr-server) - 🔥Midarr, the minimal lightweight media server alternative. (1 week ago)
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable (2 weeks ago)
