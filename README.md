@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (1 day ago)
-- [ErickWendel/semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) -  Todas as aulas da Semana JS Expert 6.0 - Spotify Radio (5 days ago)
+- [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (2 days ago)
+- [ErickWendel/semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) -  Todas as aulas da Semana JS Expert 6.0 - Spotify Radio (6 days ago)
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code (1 week ago)
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. (1 week ago)
 - [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker (1 week ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [jasineri](https://github.com/jasineri)
 - [X601169957911](https://github.com/X601169957911)
 - [notmariekondo](https://github.com/notmariekondo)
 - [sarutobi12](https://github.com/sarutobi12)
 - [Hiimsonkul](https://github.com/Hiimsonkul)
+- [hoanbi1812000](https://github.com/hoanbi1812000)
 
 #### 💬 Feedback
 
