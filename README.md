@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (today)
-- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (3 days ago)
+- [ContractWolf/raw-logos](https://github.com/ContractWolf/raw-logos) - Raw logos for audited clients (1 day ago)
+- [ehids/ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF. (4 days ago)
 - [HarbourMasters/Shipwright](https://github.com/HarbourMasters/Shipwright) -  (1 week ago)
 - [ErickWendel/semana-javascript-expert06](https://github.com/ErickWendel/semana-javascript-expert06) -  Todas as aulas da Semana JS Expert 6.0 - Spotify Radio (1 week ago)
 - [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code (2 weeks ago)
