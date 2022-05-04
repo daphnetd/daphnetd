@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 day ago)
-- [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks (2 days ago)
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (2 days ago)
+- [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks (3 days ago)
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (1 week ago)
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource (1 week ago)
 - [JD331/JD331](https://github.com/JD331/JD331) -  (2 weeks ago)
