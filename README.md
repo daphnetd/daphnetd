@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework. (4 days ago)
+- [liyupi/sql-generator](https://github.com/liyupi/sql-generator) - 🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 &#43; TypeScript &#43; Vite &#43; Ant Design &#43; MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~ (today)
+- [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework. (5 days ago)
 - [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - A guide for your daily &#34;professional&#34; interactions (not really) (1 week ago)
 - [HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - ✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。 (1 week ago)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Windmill is an OSS developer platform to quickly build production-grade multi-steps automations and internal apps from minimal Python and Typescript scripts. (2 weeks ago)
@@ -16,7 +17,6 @@
 - [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code (3 weeks ago)
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost (1 month ago)
 - [popey/unsnap](https://github.com/popey/unsnap) - Quickly migrate from using snap packages to flatpaks (1 month ago)
-- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
