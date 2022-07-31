@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C&#43;&#43; (today)
-- [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line (3 days ago)
+- [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C&#43;&#43; (1 day ago)
+- [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line (4 days ago)
 - [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - pwint(&#34;OwO&#34;) (1 week ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (2 weeks ago)
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more (3 weeks ago)
