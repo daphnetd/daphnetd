@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (2 days ago)
-- [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C&#43;&#43; (4 days ago)
+- [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (3 days ago)
+- [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C&#43;&#43; (5 days ago)
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line (1 week ago)
 - [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - pwint(&#34;OwO&#34;) (1 week ago)
 - [citronneur/pamspy](https://github.com/citronneur/pamspy) - Credentials Dumper for Linux using eBPF (3 weeks ago)
