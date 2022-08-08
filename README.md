@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [AammarTufail/pythonkachilla_version2](https://github.com/AammarTufail/pythonkachilla_version2) - This repository contains materials and files for Python ka chilla version 2.0 (version means course ka version not of python) (2 days ago)
-- [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (6 days ago)
+- [AammarTufail/pythonkachilla_version2](https://github.com/AammarTufail/pythonkachilla_version2) - This repository contains materials and files for Python ka chilla version 2.0 (version means course ka version not of python) (3 days ago)
+- [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (1 week ago)
 - [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C&#43;&#43; (1 week ago)
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line (1 week ago)
 - [virejdasani/pythOwO](https://github.com/virejdasani/pythOwO) - pwint(&#34;OwO&#34;) (2 weeks ago)
