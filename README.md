@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [killiansheriff/LovelyPlots](https://github.com/killiansheriff/LovelyPlots) - Matplotlib style sheets to nicely format figures for scientific papers, thesis and presentations while keeping them fully editable in Adobe Illustrator. (2 days ago)
+- [killiansheriff/LovelyPlots](https://github.com/killiansheriff/LovelyPlots) - Matplotlib style sheets to nicely format figures for scientific papers, thesis and presentations while keeping them fully editable in Adobe Illustrator. (3 days ago)
 - [AammarTufail/pythonkachilla_version2](https://github.com/AammarTufail/pythonkachilla_version2) - This repository contains materials and files for Python ka chilla version 2.0 (version means course ka version not of python) (1 week ago)
 - [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -  (1 week ago)
 - [Omyyyy/pycom](https://github.com/Omyyyy/pycom) - A Python compiler, down to native code, using C&#43;&#43; (2 weeks ago)
