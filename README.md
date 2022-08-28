@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) -  (3 days ago)
-- [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources (5 days ago)
+- [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) -  (4 days ago)
+- [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources (6 days ago)
 - [redballoonsecurity/ofrak](https://github.com/redballoonsecurity/ofrak) - OFRAK: unpack, modify, and repack binaries. (1 week ago)
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) -  (1 week ago)
 - [gfodor/p2pcf](https://github.com/gfodor/p2pcf) - Low cost, low effort P2P WebRTC serverless signalling using Cloudflare Workers (1 week ago)
