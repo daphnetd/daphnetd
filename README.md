@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (2 days ago)
+- [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (3 days ago)
 - [cassiozen/TDungeon](https://github.com/cassiozen/TDungeon) - TDungeon is a small adventure game that runs in the Typescript type system (1 week ago)
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device (1 week ago)
 - [11ty/webc](https://github.com/11ty/webc) - Single File Web Components (1 week ago)
