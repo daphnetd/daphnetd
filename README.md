@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (4 days ago)
+- [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (5 days ago)
 - [cassiozen/TDungeon](https://github.com/cassiozen/TDungeon) - TDungeon is a small adventure game that runs in the Typescript type system (1 week ago)
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device (1 week ago)
-- [11ty/webc](https://github.com/11ty/webc) - Single File Web Components (1 week ago)
+- [11ty/webc](https://github.com/11ty/webc) - Single File Web Components (2 weeks ago)
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision (2 weeks ago)
 - [bytedance/appshark](https://github.com/bytedance/appshark) - Appshark is a static taint analysis platform to scan vulnerabilities in an Android app. (3 weeks ago)
 - [OhMyGuus/I-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Dont-Care-About-Cookies) - Debloated fork of the extension &#34;I don&#39;t care about cookies&#34; (3 weeks ago)
