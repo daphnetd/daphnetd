@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [fruiframework/frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust (today)
-- [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (2 days ago)
+- [fruiframework/frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust (1 day ago)
+- [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (3 days ago)
 - [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (1 week ago)
 - [cassiozen/TDungeon](https://github.com/cassiozen/TDungeon) - TDungeon is a small adventure game that runs in the Typescript type system (2 weeks ago)
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device (2 weeks ago)
