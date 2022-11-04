@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [linvo-io/linvo-scraper](https://github.com/linvo-io/linvo-scraper) - Linkedin Automation Bot with every possible scraping! Valid for 2022 used by Linvo.io (today)
-- [webpro/knip](https://github.com/webpro/knip) - Find unused files, dependencies and exports in your JS/TS project  (1 day ago)
+- [linvo-io/linvo-scraper](https://github.com/linvo-io/linvo-scraper) - Linkedin Automation Bot with every possible scraping! Valid for 2022 used by Linvo.io (1 day ago)
+- [webpro/knip](https://github.com/webpro/knip) - Find unused files, dependencies and exports in your JS/TS project  (2 days ago)
 - [fruiframework/frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust (1 week ago)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (1 week ago)
 - [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (2 weeks ago)
