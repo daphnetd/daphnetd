@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement. (1 day ago)
-- [binji/smolnes](https://github.com/binji/smolnes) - NES emulator in &lt;5000 bytes of C&#43;&#43; (5 days ago)
-- [Engagespot/heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let&#39;s find a list of services with a free plan that developers can use as an alternative to Heroku. Feel free to submit PRs and improve the list. (6 days ago)
+- [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement. (2 days ago)
+- [binji/smolnes](https://github.com/binji/smolnes) - NES emulator in &lt;5000 bytes of C&#43;&#43; (6 days ago)
+- [Engagespot/heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let&#39;s find a list of services with a free plan that developers can use as an alternative to Heroku. Feel free to submit PRs and improve the list. (1 week ago)
 - [linvo-io/linvo-scraper](https://github.com/linvo-io/linvo-scraper) - Linkedin Automation Bot with every possible scraping! Valid for 2022 used by Linvo.io (1 week ago)
 - [webpro/knip](https://github.com/webpro/knip) - Find unused files, dependencies and exports in your JS/TS project  (1 week ago)
 - [fruiframework/frui](https://github.com/fruiframework/frui) - A developer-friendly framework for building user interfaces in Rust (2 weeks ago)
