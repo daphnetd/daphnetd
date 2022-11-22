@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources (today)
-- [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager. (3 days ago)
-- [facebookresearch/encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio. (5 days ago)
+- [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2022. with learning resources (1 day ago)
+- [egoist/dropcode](https://github.com/egoist/dropcode) - A simple and lightweight code snippet manager. (4 days ago)
+- [facebookresearch/encodec](https://github.com/facebookresearch/encodec) - State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio. (6 days ago)
 - [aserto-dev/topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs (1 week ago)
 - [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement. (1 week ago)
 - [binji/smolnes](https://github.com/binji/smolnes) - NES emulator in &lt;5000 bytes of C (2 weeks ago)
