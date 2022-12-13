@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [google/mangle](https://github.com/google/mangle) -  (4 days ago)
-- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (5 days ago)
-- [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars) - A browser extension that shows twitter blue vs real verified users (6 days ago)
-- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside Google Search results (1 week ago)
+- [google/mangle](https://github.com/google/mangle) -  (5 days ago)
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (6 days ago)
+- [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars) - A browser extension that shows twitter blue vs real verified users (1 week ago)
+- [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results (1 week ago)
 - [4ra1n/super-xray](https://github.com/4ra1n/super-xray) - XRAY GUI Starter (Web Vulnerability Scanner) (1 week ago)
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (1 week ago)
 - [pinauten/Fugu15](https://github.com/pinauten/Fugu15) - Fugu15 is a semi-untethered permasigned jailbreak for iOS 15 (2 weeks ago)
