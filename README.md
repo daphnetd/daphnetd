@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. (today)
-- [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) -  (2 days ago)
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux) (3 days ago)
+- [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. (1 day ago)
+- [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) -  (3 days ago)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux) (4 days ago)
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT (1 week ago)
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3 (2 weeks ago)
 - [google/mangle](https://github.com/google/mangle) -  (3 weeks ago)
@@ -21,10 +21,10 @@
 #### 👯 Check out some of my recent followers
 
 - [MsChauhan369](https://github.com/MsChauhan369)
-- [cumsoft](https://github.com/cumsoft)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [X601169957911](https://github.com/X601169957911)
 - [notmariekondo](https://github.com/notmariekondo)
+- [sarutobi12](https://github.com/sarutobi12)
 
 #### 💬 Feedback
 
