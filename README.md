@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. (1 week ago)
+- [mouredev/retos-programacion-2023](https://github.com/mouredev/retos-programacion-2023) - Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación. (today)
+- [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT) - ⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more. (2 weeks ago)
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) -  (2 weeks ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (2 weeks ago)
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT (3 weeks ago)
@@ -16,7 +17,6 @@
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT&#39;s API by OpenAI. Uses reverse engineered official API. (1 month ago)
 - [wseagar/eight-dollars](https://github.com/wseagar/eight-dollars) - A browser extension that shows twitter blue vs real verified users (1 month ago)
 - [wong2/chat-gpt-google-extension](https://github.com/wong2/chat-gpt-google-extension) - A browser extension to display ChatGPT response alongside search engine results (1 month ago)
-- [4ra1n/super-xray](https://github.com/4ra1n/super-xray) - Web Vulnerability Scanner XRAY GUI Starter (Web漏洞扫描工具XRAY的GUI启动器，仅是简单的命令行包装) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
