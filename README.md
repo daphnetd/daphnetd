@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML (today)
-- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy. (1 day ago)
-- [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.  (2 days ago)
-- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI&#39;s GPT-3 models, will help you accomplish your tasks faster and more efficiently. (4 days ago)
+- [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML (1 day ago)
+- [jaymody/picoGPT](https://github.com/jaymody/picoGPT) - An unnecessarily tiny implementation of GPT-2 in NumPy. (2 days ago)
+- [orlp/glidesort](https://github.com/orlp/glidesort) - A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.  (3 days ago)
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI&#39;s GPT-3 models, will help you accomplish your tasks faster and more efficiently. (5 days ago)
 - [webtr333/Nitro-Generator-AND-Checker](https://github.com/webtr333/Nitro-Generator-AND-Checker) - ⭐Nitro generator. Gens discord nitro codes (10$ nitro and classics) then validates them with discord api.⭐ (1 week ago)
 - [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT) - Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️ (2 weeks ago)
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) -  (2 weeks ago)
