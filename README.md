@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source. (3 days ago)
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model (5 days ago)
+- [xx025/carrot](https://github.com/xx025/carrot) - 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100&#43;站点 (today)
+- [whoiskatrin/sql-translator](https://github.com/whoiskatrin/sql-translator) - SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source. (4 days ago)
+- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model (6 days ago)
 - [microsoft/visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models (1 week ago)
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet (2 weeks ago)
 - [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API (gpt-3.5-turbo) (2 weeks ago)
 - [ErickWendel/semana-javascript-expert07](https://github.com/ErickWendel/semana-javascript-expert07) - JS Expert Week 7.0 - 🙅🤏🏻 Controlling Streaming Platforms using Eye and Hand Detection 👁🖐 (2 weeks ago)
 - [guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report) -  (2 weeks ago)
-- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. Facebook (Meta)  的 LLaMA 模型（235GB）- 百度网盘下载 (2 weeks ago)
+- [howl-anderson/unlocking-the-power-of-llms](https://github.com/howl-anderson/unlocking-the-power-of-llms) - 使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！Unlocking the power of LLMs. Facebook (Meta)  的 LLaMA 模型（235GB）- 百度网盘下载 (3 weeks ago)
 - [mjl-/mox](https://github.com/mjl-/mox) - modern full-featured open source secure mail server for low-maintenance self-hosted email (3 weeks ago)
-- [archinetai/audio-ai-timeline](https://github.com/archinetai/audio-ai-timeline) - A timeline of the latest AI models for audio generation, starting in 2023! (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
