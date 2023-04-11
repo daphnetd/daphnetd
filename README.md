@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here (1 day ago)
+- [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here (2 days ago)
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for &#34;Vicuna: An Open Chatbot Impressing GPT-4&#34; (1 week ago)
 - [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) -  (1 week ago)
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease. (2 weeks ago)
@@ -22,9 +22,9 @@
 
 - [safuco](https://github.com/safuco)
 - [tnarrj](https://github.com/tnarrj)
-- [smertime](https://github.com/smertime)
 - [rileyca](https://github.com/rileyca)
 - [tacknuzz](https://github.com/tacknuzz)
+- [medisanaa](https://github.com/medisanaa)
 
 #### 💬 Feedback
 
