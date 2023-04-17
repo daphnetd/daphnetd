@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI&#39;s GPT-4 (2 days ago)
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue (4 days ago)
+- [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI&#39;s GPT-4 (3 days ago)
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue (5 days ago)
 - [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here (1 week ago)
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for &#34;Vicuna: An Open Chatbot Impressing GPT-4&#34; (1 week ago)
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for &#34;Vicuna: An Open Chatbot Impressing GPT-4&#34; (2 weeks ago)
 - [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit) -  (2 weeks ago)
 - [TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers) - Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease. (3 weeks ago)
 - [xx025/carrot](https://github.com/xx025/carrot) - Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100&#43;站点 (3 weeks ago)
