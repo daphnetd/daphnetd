@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The python package that returns response of Google Bard through API. (today)
+- [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The python package that returns response of Google Bard through API. (1 day ago)
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (1 week ago)
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. (1 week ago)
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI  (1 week ago)
