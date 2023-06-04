@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models (today)
-- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs (3 days ago)
-- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Online Demo and Implementation of DragGAN - &#34;Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold&#34; （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux） (1 week ago)
-- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset (1 week ago)
+- [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models (1 day ago)
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs (4 days ago)
+- [Zeqiang-Lai/DragGAN](https://github.com/Zeqiang-Lai/DragGAN) - Online Demo and Unofficial Implementation of DragGAN - &#34;Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold&#34; （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux） (1 week ago)
+- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset (2 weeks ago)
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手 (2 weeks ago)
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value. (2 weeks ago)
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (3 weeks ago)
