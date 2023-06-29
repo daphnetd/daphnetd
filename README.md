@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality (today)
-- [kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) - A collection of bookmarks for penetration testers, bug bounty hunters,  malware developers, reverse engineers and anyone who is just interested in infosec topics. (1 day ago)
-- [pennyliang/ciku](https://github.com/pennyliang/ciku) -  (6 days ago)
+- [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality (1 day ago)
+- [kargisimos/offensive-bookmarks](https://github.com/kargisimos/offensive-bookmarks) - A collection of bookmarks for penetration testers, bug bounty hunters,  malware developers, reverse engineers and anyone who is just interested in infosec topics. (2 days ago)
+- [pennyliang/ciku](https://github.com/pennyliang/ciku) -  (1 week ago)
 - [krzysztofzablocki/Swift-Macros](https://github.com/krzysztofzablocki/Swift-Macros) - A curated list of awesome Swift Macros (1 week ago)
 - [ClassmateLin/dm-ticket](https://github.com/ClassmateLin/dm-ticket) - 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container. (2 weeks ago)
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load Developer&#39;s Handbook (2 weeks ago)
