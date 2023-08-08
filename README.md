@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model (5 days ago)
+- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model (6 days ago)
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) -  (1 week ago)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ (1 week ago)
 - [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用 (1 week ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [zqodev](https://github.com/zqodev)
 - [eddyonl](https://github.com/eddyonl)
 - [safuco](https://github.com/safuco)
 - [tnarrj](https://github.com/tnarrj)
 - [rileyca](https://github.com/rileyca)
+- [tacknuzz](https://github.com/tacknuzz)
 
 #### 💬 Feedback
 
