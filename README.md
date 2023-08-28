@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (2 days ago)
-- [adrianhajdin/threads](https://github.com/adrianhajdin/threads) - Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever! (5 days ago)
-- [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly. (6 days ago)
+- [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (3 days ago)
+- [adrianhajdin/threads](https://github.com/adrianhajdin/threads) - Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever! (6 days ago)
+- [ill-inc/biomes-game](https://github.com/ill-inc/biomes-game) - Biomes is an open source sandbox MMORPG built for the web using web technologies such as Next.js, Typescript, React and WebAssembly. (1 week ago)
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin. (1 week ago)
 - [lucavallin/barco](https://github.com/lucavallin/barco) - Linux containers from scratch in C. (1 week ago)
 - [LinkSoul-AI/Chinese-Llama-2-7b](https://github.com/LinkSoul-AI/Chinese-Llama-2-7b) - 开源社区第一个能下载、能运行的中文 LLaMA2 模型！ (1 week ago)
@@ -22,7 +22,7 @@
 
 - [eddyonl](https://github.com/eddyonl)
 - [safuco](https://github.com/safuco)
-- [tnarrj](https://github.com/tnarrj)
+- [dmytrmk](https://github.com/dmytrmk)
 - [rileyca](https://github.com/rileyca)
 - [tacknuzz](https://github.com/tacknuzz)
 
