@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system (1 day ago)
-- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥 (2 days ago)
+- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system (2 days ago)
+- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo) - Inference Llama 2 in one file of pure 🔥 (3 days ago)
 - [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (1 week ago)
 - [qxchuckle/vsc-cec-ide](https://github.com/qxchuckle/vsc-cec-ide) - 一个插件，国产化你的VSCode，来源于CEC-IDE，有敏感词检测、防沉迷等功能，这下自主创新了！ (1 week ago)
 - [XPixelGroup/DiffBIR](https://github.com/XPixelGroup/DiffBIR) -  (1 week ago)
