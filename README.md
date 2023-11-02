@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you. (1 day ago)
-- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (3 days ago)
-- [hotshotco/Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL (5 days ago)
+- [SidraChain/go-ethereum](https://github.com/SidraChain/go-ethereum) - Forked Golang execution layer implementation of the Ethereum protocol. (today)
+- [iam-veeramalla/python-for-devops](https://github.com/iam-veeramalla/python-for-devops) - Learn Python from DevOps Engineer point of you. (2 days ago)
+- [danielgross/localpilot](https://github.com/danielgross/localpilot) -  (4 days ago)
+- [hotshotco/Hotshot-XL](https://github.com/hotshotco/Hotshot-XL) - ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL (6 days ago)
 - [saisathvik1/OSCP-Cheatsheet](https://github.com/saisathvik1/OSCP-Cheatsheet) - OSCP Cheatsheet by Sai Sathvik (1 week ago)
 - [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm) - Efficient Streaming Language Models with Attention Sinks (1 week ago)
-- [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation (1 week ago)
+- [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation (2 weeks ago)
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).  (2 weeks ago)
 - [dvlab-research/LongLoRA](https://github.com/dvlab-research/LongLoRA) - Code and documents of LongLoRA and LongAlpaca (2 weeks ago)
-- [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte (2 weeks ago)
-- [hyperdxio/hyperdx](https://github.com/hyperdxio/hyperdx) - Resolve production issues, fast. An open source observability platform unifying session replays, logs, metrics, traces and errors. (3 weeks ago)
+- [nuejs/nuejs](https://github.com/nuejs/nuejs) - Build user interfaces with cleaner code. Alternative to React, Vue, and Svelte (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
