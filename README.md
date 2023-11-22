@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (1 day ago)
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL (2 days ago)
 - [roboflow/awesome-openai-vision-api-experiments](https://github.com/roboflow/awesome-openai-vision-api-experiments) - Must-have resource for anyone who wants to experiment with and build on the OpenAI vision API 🔥 (1 week ago)
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems (1 week ago)
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Teaching LLMs memory management for unbounded context 📚🦙 (2 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [halkhalki52](https://github.com/halkhalki52)
 - [mashomsahib](https://github.com/mashomsahib)
 - [eddyonl](https://github.com/eddyonl)
 - [safuco](https://github.com/safuco)
 - [dmytrmk](https://github.com/dmytrmk)
-- [rileyca](https://github.com/rileyca)
 
 #### 💬 Feedback
 
