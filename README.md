@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (1 day ago)
-- [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon (2 days ago)
+- [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (2 days ago)
+- [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon (3 days ago)
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model (1 week ago)
 - [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (1 week ago)
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) -  (1 week ago)
