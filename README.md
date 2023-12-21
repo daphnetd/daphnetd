@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (3 days ago)
-- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything (4 days ago)
+- [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (4 days ago)
+- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything (5 days ago)
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (1 week ago)
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon (1 week ago)
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model (2 weeks ago)
