@@ -7,15 +7,15 @@
 
 #### ⭐ Recent Stars
 
-- [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (3 days ago)
+- [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (4 days ago)
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (2 weeks ago)
 - [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything (2 weeks ago)
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life (2 weeks ago)
-- [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon (2 weeks ago)
+- [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon (3 weeks ago)
 - [magic-research/magic-animate](https://github.com/magic-research/magic-animate) - MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model (3 weeks ago)
 - [flowtyone/flowty-realtime-lcm-canvas](https://github.com/flowtyone/flowty-realtime-lcm-canvas) - A realtime sketch to image demo using LCM and the gradio library.  (3 weeks ago)
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) -  (4 weeks ago)
-- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it (4 weeks ago)
+- [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it (1 month ago)
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai (1 month ago)
 
 #### 👯 Check out some of my recent followers
