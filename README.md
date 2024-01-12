@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio (1 day ago)
-- [RUB-NDS/Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) - This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper &#34;Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation&#34;. (3 days ago)
+- [facebookresearch/audio2photoreal](https://github.com/facebookresearch/audio2photoreal) - Code and dataset for photorealistic Codec Avatars driven from audio (2 days ago)
+- [RUB-NDS/Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) - This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper &#34;Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation&#34;. (4 days ago)
 - [Nukem9/dlssg-to-fsr3](https://github.com/Nukem9/dlssg-to-fsr3) - Adds AMD FSR 3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg). (1 week ago)
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro. (2 weeks ago)
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) - All things prompt engineering (3 weeks ago)
