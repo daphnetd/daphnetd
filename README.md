@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [VeroFess/PalWorld-Server-Unoffical-Fix](https://github.com/VeroFess/PalWorld-Server-Unoffical-Fix) - This is an unofficial palworld server binary distribution project that fixes some problems with the original server. (4 days ago)
-- [ZHO-ZHO-ZHO/ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID) - Unofficial implementation of InstantID for ComfyUI (5 days ago)
+- [VeroFess/PalWorld-Server-Unoffical-Fix](https://github.com/VeroFess/PalWorld-Server-Unoffical-Fix) - This is an unofficial palworld server binary distribution project that fixes some problems with the original server. (5 days ago)
+- [ZHO-ZHO-ZHO/ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID) - Unofficial implementation of InstantID for ComfyUI (6 days ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (1 week ago)
 - [ExOK/Celeste64](https://github.com/ExOK/Celeste64) - A game made by the Celeste developers in a week(ish, closer to 2) (1 week ago)
 - [YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster) - Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG) (1 week ago)
