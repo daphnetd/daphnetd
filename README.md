@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible &amp; unstyled. (1 day ago)
+- [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible &amp; unstyled. (2 days ago)
 - [VeroFess/PalWorld-Server-Unoffical-Fix](https://github.com/VeroFess/PalWorld-Server-Unoffical-Fix) - This is an unofficial palworld server binary distribution project that fixes some problems with the original server. (2 weeks ago)
 - [ZHO-ZHO-ZHO/ComfyUI-InstantID](https://github.com/ZHO-ZHO-ZHO/ComfyUI-InstantID) - Unofficial implementation of InstantID for ComfyUI (2 weeks ago)
 - [microsoft/sudo](https://github.com/microsoft/sudo) - It&#39;s sudo, for Windows (2 weeks ago)
