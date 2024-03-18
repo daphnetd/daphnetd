@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler (today)
-- [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets (1 day ago)
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet (4 days ago)
+- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler (1 day ago)
+- [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets (2 days ago)
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - Building the best system design resource in the internet (5 days ago)
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google&#39;s Gemma models (2 weeks ago)
 - [guilhermerodz/input-otp](https://github.com/guilhermerodz/input-otp) - One time passcode Input. Accessible &amp; unstyled. (2 weeks ago)
 - [VeroFess/PalWorld-Server-Unoffical-Fix](https://github.com/VeroFess/PalWorld-Server-Unoffical-Fix) - This is an unofficial palworld server binary distribution project that fixes some problems with the original server. (1 month ago)
