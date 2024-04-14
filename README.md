@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of &#34;Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction&#34; (today)
+- [FoundationVision/VAR](https://github.com/FoundationVision/VAR) - [GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of &#34;Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction&#34; (1 day ago)
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI. (1 week ago)
 - [huchenlei/ComfyUI-layerdiffuse](https://github.com/huchenlei/ComfyUI-layerdiffuse) - Layer Diffuse custom nodes (2 weeks ago)
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision (3 weeks ago)
-- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler (3 weeks ago)
+- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler (4 weeks ago)
 - [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) - React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets (4 weeks ago)
 - [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you learn system design. (1 month ago)
 - [google/gemma_pytorch](https://github.com/google/gemma_pytorch) - The official PyTorch implementation of Google&#39;s Gemma models (1 month ago)
