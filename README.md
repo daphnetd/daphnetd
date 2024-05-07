@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [code100x/chess](https://github.com/code100x/chess) - A multiplayer chess platform  (2 days ago)
-- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up (4 days ago)
+- [code100x/chess](https://github.com/code100x/chess) - A multiplayer chess platform  (3 days ago)
+- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up (5 days ago)
 - [zk-Call/zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js) - &#34;Zero-Knowledge&#34; Proof Implementation with HMAC Communication in JavaScript (1 week ago)
 - [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (1 week ago)
 - [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models (1 week ago)
