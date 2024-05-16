@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 (5 days ago)
+- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 (6 days ago)
 - [code100x/chess](https://github.com/code100x/chess) - A multiplayer chess platform  (1 week ago)
-- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up (1 week ago)
+- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu) - A minimal GPU design in Verilog to learn how GPUs work from the ground up (2 weeks ago)
 - [zk-Call/zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js) - &#34;Zero-Knowledge&#34; Proof Implementation with HMAC Communication in JavaScript (2 weeks ago)
-- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (2 weeks ago)
+- [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources. (3 weeks ago)
 - [TencentARC/InstantMesh](https://github.com/TencentARC/InstantMesh) - InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models (3 weeks ago)
 - [karpathy/llm.c](https://github.com/karpathy/llm.c) - LLM training in simple, raw C/CUDA (3 weeks ago)
 - [mshumer/gpt-investor](https://github.com/mshumer/gpt-investor) -  (4 weeks ago)
