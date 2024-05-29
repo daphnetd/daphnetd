@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [arghya2003/ShadowTool](https://github.com/arghya2003/ShadowTool) - This script is designed to automatically generate seed phrases and check balances for Tron networks. If a wallet with a non-zero balance is found, the wallet&#39;s information saved (address, mnemonic, private key, and balances) (1 day ago)
-- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (2 days ago)
-- [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting! (4 days ago)
+- [Cry1ngMan/1](https://github.com/Cry1ngMan/1) - 手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙 (today)
+- [mainmatter/100-exercises-to-learn-rust](https://github.com/mainmatter/100-exercises-to-learn-rust) - A self-paced course to learn Rust, one exercise at a time. (3 days ago)
+- [lllyasviel/IC-Light](https://github.com/lllyasviel/IC-Light) - More relighting! (5 days ago)
 - [IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings (1 week ago)
 - [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - High-quality datasets, tools, and concepts for LLM fine-tuning. (1 week ago)
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs (1 week ago)
