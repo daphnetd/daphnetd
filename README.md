@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | Open-AI &amp; Ollama (today)
-- [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click (4 days ago)
+- [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini &amp; Ollama (1 day ago)
+- [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click (5 days ago)
 - [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you. (1 week ago)
 - [XLabs-AI/x-flux](https://github.com/XLabs-AI/x-flux) -  (2 weeks ago)
 - [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (2 weeks ago)
