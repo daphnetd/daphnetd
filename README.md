@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini &amp; Ollama (4 days ago)
+- [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) - 利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click. (today)
+- [itsOwen/CyberScraper-2077](https://github.com/itsOwen/CyberScraper-2077) - A Powerful web scraper powered by LLM | OpenAI, Gemini &amp; Ollama (5 days ago)
 - [CEREBRUS-MAXIMUS/Surfer-Data](https://github.com/CEREBRUS-MAXIMUS/Surfer-Data) - Export your personal data in one click (1 week ago)
 - [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you. (2 weeks ago)
 - [XLabs-AI/x-flux](https://github.com/XLabs-AI/x-flux) -  (3 weeks ago)
@@ -16,7 +17,6 @@
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (3 weeks ago)
 - [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改 (1 month ago)
 - [jofpin/turbit](https://github.com/jofpin/turbit) - Build applications, scripts, and automations powered by high-performance multicore computing using Node.js (1 month ago)
-- [facebookresearch/MobileLLM](https://github.com/facebookresearch/MobileLLM) - MobileLLM Optimizing Sub-billion Parameter Language Models for On-Device Use Cases. In ICML 2024. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
