@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [konrad-gajdus/miniMNIST-c](https://github.com/konrad-gajdus/miniMNIST-c) -  (today)
-- [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains (1 day ago)
+- [konrad-gajdus/miniMNIST-c](https://github.com/konrad-gajdus/miniMNIST-c) -  (1 day ago)
+- [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains (2 days ago)
 - [gpt-omni/mini-omni](https://github.com/gpt-omni/mini-omni) - open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.  (1 week ago)
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source DataDog &#43; PostHog for AI agents / RAG apps. Fast, reliable and insightful. Written in Rust 🦀. YC S24. (1 week ago)
 - [JJTech0130/TrollRestore](https://github.com/JJTech0130/TrollRestore) - TrollStore installer for iOS 17.0 (1 week ago)
