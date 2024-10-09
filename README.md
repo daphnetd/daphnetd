@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (1 day ago)
-- [udecode/dotai](https://github.com/udecode/dotai) -  (4 days ago)
-- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (5 days ago)
+- [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (2 days ago)
+- [udecode/dotai](https://github.com/udecode/dotai) -  (5 days ago)
+- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (6 days ago)
 - [konrad-gajdus/miniMNIST-c](https://github.com/konrad-gajdus/miniMNIST-c) -  (1 week ago)
 - [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains (1 week ago)
 - [gpt-omni/mini-omni](https://github.com/gpt-omni/mini-omni) - open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities.  (2 weeks ago)
