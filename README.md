@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (1 day ago)
-- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative (2 days ago)
+- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (2 days ago)
+- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative (3 days ago)
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (1 week ago)
 - [udecode/dotai](https://github.com/udecode/dotai) -  (1 week ago)
 - [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (1 week ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [VamperyviN](https://github.com/VamperyviN)
 - [Minhtuancuong](https://github.com/Minhtuancuong)
 - [halkhalki52](https://github.com/halkhalki52)
 - [mashomsahib](https://github.com/mashomsahib)
 - [eddyonl](https://github.com/eddyonl)
-- [safuco](https://github.com/safuco)
 
 #### 💬 Feedback
 
