@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [VamperyviN](https://github.com/VamperyviN)
 - [Minhtuancuong](https://github.com/Minhtuancuong)
 - [halkhalki52](https://github.com/halkhalki52)
 - [mashomsahib](https://github.com/mashomsahib)
-- [eddyonl](https://github.com/eddyonl)
 
 #### 💬 Feedback
 
