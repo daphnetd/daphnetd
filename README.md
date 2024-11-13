@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [THUDM/GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) - GLM-4-Voice | 端到端中英语音对话模型 (today)
+- [THUDM/GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) - GLM-4-Voice | 端到端中英语音对话模型 (1 day ago)
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js  (1 week ago)
 - [gpt-omni/mini-omni2](https://github.com/gpt-omni/mini-omni2) - Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities。 (2 weeks ago)
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding  (2 weeks ago)
