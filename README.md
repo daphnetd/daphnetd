@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) -  (1 day ago)
-- [THUDM/GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) - GLM-4-Voice | 端到端中英语音对话模型 (3 days ago)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (today)
+- [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) -  (2 days ago)
+- [THUDM/GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice) - GLM-4-Voice | 端到端中英语音对话模型 (4 days ago)
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster) - A highly performant e-commerce template using Next.js  (2 weeks ago)
 - [gpt-omni/mini-omni2](https://github.com/gpt-omni/mini-omni2) - Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities。 (2 weeks ago)
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding  (3 weeks ago)
@@ -16,7 +17,6 @@
 - [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative (1 month ago)
 - [nadimkobeissi/mkbsd](https://github.com/nadimkobeissi/mkbsd) - Download all the wallpapers in MKBHD&#39;s &#34;Panels&#34; app (1 month ago)
 - [udecode/dotai](https://github.com/udecode/dotai) -  (1 month ago)
-- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
