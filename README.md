@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [ali-vilab/In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - Official repository of In-Context LoRA for Diffusion Transformers (today)
-- [bhavnicksm/chonkie](https://github.com/bhavnicksm/chonkie) - 🦛 CHONK your texts with Chonkie ✨ - The no-nonsense RAG chunking library (1 day ago)
-- [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz-1 biomolecular interaction model (2 days ago)
+- [ali-vilab/In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - Official repository of In-Context LoRA for Diffusion Transformers (1 day ago)
+- [bhavnicksm/chonkie](https://github.com/bhavnicksm/chonkie) - 🦛 CHONK your texts with Chonkie ✨ - The no-nonsense RAG chunking library (2 days ago)
+- [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz-1 biomolecular interaction model (3 days ago)
 - [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Make websites accessible for AI agents (1 week ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (2 weeks ago)
 - [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (2 weeks ago)
