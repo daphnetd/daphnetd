@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video (2 days ago)
-- [bddicken/languages](https://github.com/bddicken/languages) - Compare languages (6 days ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (today)
+- [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video) - Official repository for LTX-Video (3 days ago)
+- [bddicken/languages](https://github.com/bddicken/languages) - Compare languages (1 week ago)
 - [Nutlope/llama-ocr](https://github.com/Nutlope/llama-ocr) - Document to Markdown OCR library with Llama 3.2 vision (1 week ago)
 - [TheBlewish/Automated-AI-Web-Researcher-Ollama](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama) - A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query determine focus areas to investigate, do websearches and scrape content from various relevant websites and do research for you all on its own! And more, not limited to but including saving the findings for you! (1 week ago)
 - [ali-vilab/In-Context-LoRA](https://github.com/ali-vilab/In-Context-LoRA) - Official repository of In-Context LoRA for Diffusion Transformers (2 weeks ago)
@@ -16,15 +17,14 @@
 - [jwohlwend/boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz-1 biomolecular interaction model (2 weeks ago)
 - [gregpr07/browser-use](https://github.com/gregpr07/browser-use) - Make websites accessible for AI agents (3 weeks ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (4 weeks ago)
-- [Tencent/Hunyuan3D-1](https://github.com/Tencent/Hunyuan3D-1) - Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [VamperyviN](https://github.com/VamperyviN)
 - [Minhtuancuong](https://github.com/Minhtuancuong)
 - [halkhalki52](https://github.com/halkhalki52)
 - [mashomsahib](https://github.com/mashomsahib)
+- [eddyonl](https://github.com/eddyonl)
 
 #### 💬 Feedback
 
