@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [PollensAI/Pollens](https://github.com/PollensAI/Pollens) - Buzz Together in Real Time: Your BeeSync for Collaborative Creation and Connection. (today)
-- [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding (2 days ago)
-- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -  (3 days ago)
-- [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI (6 days ago)
+- [PollensAI/Pollens](https://github.com/PollensAI/Pollens) - Buzz Together in Real Time: Your BeeSync for Collaborative Creation and Connection. (1 day ago)
+- [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding (3 days ago)
+- [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -  (4 days ago)
+- [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI (1 week ago)
 - [bytedance/LatentSync](https://github.com/bytedance/LatentSync) - Taming Stable Diffusion for Lip Sync! (1 week ago)
 - [midday-ai/languine](https://github.com/midday-ai/languine) - Translate your application with Languine CLI powered by AI. (1 week ago)
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (2 weeks ago)
