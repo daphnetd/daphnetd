@@ -7,14 +7,14 @@
 
 #### ⭐ Recent Stars
 
-- [PollensAI/Pollens](https://github.com/PollensAI/Pollens) - Buzz Together in Real Time: Your BeeSync for Collaborative Creation and Connection. (4 days ago)
-- [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding (6 days ago)
+- [PollensAI/Pollens](https://github.com/PollensAI/Pollens) - Buzz Together in Real Time: Your BeeSync for Collaborative Creation and Connection. (5 days ago)
+- [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding (1 week ago)
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -  (1 week ago)
 - [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI (1 week ago)
 - [bytedance/LatentSync](https://github.com/bytedance/LatentSync) - Taming Stable Diffusion for Lip Sync! (2 weeks ago)
 - [midday-ai/languine](https://github.com/midday-ai/languine) - Translate your application with Languine CLI powered by AI. (2 weeks ago)
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (2 weeks ago)
-- [deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2) - DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding (2 weeks ago)
+- [deepseek-ai/DeepSeek-VL2](https://github.com/deepseek-ai/DeepSeek-VL2) - DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding (3 weeks ago)
 - [kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper) -  (3 weeks ago)
 - [gabriel-pineda/git-wrapped-api](https://github.com/gabriel-pineda/git-wrapped-api) -  (3 weeks ago)
 
