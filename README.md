@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [PollensAI/Pollens](https://github.com/PollensAI/Pollens) - Buzz Together in Real Time: Your BeeSync for Collaborative Creation and Connection. (6 days ago)
+- [PollensAI/Pollens](https://github.com/PollensAI/Pollens) - Buzz Together in Real Time: Your BeeSync for Collaborative Creation and Connection. (1 week ago)
 - [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding (1 week ago)
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -  (1 week ago)
 - [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) - Stay on top of trending topics on social media and the web with AI (1 week ago)
