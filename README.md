@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer (today)
-- [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) -  (2 days ago)
-- [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450 (4 days ago)
-- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (6 days ago)
+- [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer (1 day ago)
+- [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) -  (3 days ago)
+- [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450 (5 days ago)
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (1 week ago)
 - [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) -  (1 week ago)
 - [PollensAI/Pollens](https://github.com/PollensAI/Pollens) - Buzz Together in Real Time: Your BeeSync for Collaborative Creation and Connection. (2 weeks ago)
 - [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding (3 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Connor9994](https://github.com/Connor9994)
 - [docpainting](https://github.com/docpainting)
 - [moketh](https://github.com/moketh)
 - [VamperyviN](https://github.com/VamperyviN)
 - [Minhtuancuong](https://github.com/Minhtuancuong)
-- [halkhalki52](https://github.com/halkhalki52)
 
 #### 💬 Feedback
 
