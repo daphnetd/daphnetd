@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - I&#39;ve built with Stripe for years. This is how I do it without going mad. (today)
-- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (2 days ago)
-- [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer (4 days ago)
-- [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) -  (6 days ago)
+- [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - I&#39;ve built with Stripe for years. This is how I do it without going mad. (1 day ago)
+- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (3 days ago)
+- [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer (5 days ago)
+- [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) -  (1 week ago)
 - [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450 (1 week ago)
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (1 week ago)
 - [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) -  (2 weeks ago)
