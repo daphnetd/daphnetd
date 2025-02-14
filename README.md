@@ -7,15 +7,15 @@
 
 #### ⭐ Recent Stars
 
-- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) -  (today)
-- [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling (1 day ago)
-- [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - I&#39;ve built with Stripe for years. This is how I do it without going mad. (5 days ago)
+- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) -  (1 day ago)
+- [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling (2 days ago)
+- [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - I&#39;ve built with Stripe for years. This is how I do it without going mad. (6 days ago)
 - [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (1 week ago)
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer (1 week ago)
 - [MiniMax-AI/MiniMax-01](https://github.com/MiniMax-AI/MiniMax-01) -  (1 week ago)
-- [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450 (1 week ago)
+- [NovaSky-AI/SkyThought](https://github.com/NovaSky-AI/SkyThought) - Sky-T1: Train your own O1 preview model within $450 (2 weeks ago)
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (2 weeks ago)
-- [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) -  (2 weeks ago)
+- [langchain-ai/executive-ai-assistant](https://github.com/langchain-ai/executive-ai-assistant) -  (3 weeks ago)
 - [PollensAI/Pollens](https://github.com/PollensAI/Pollens) - Buzz Together in Real Time: Your BeeSync for Collaborative Creation and Connection. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
