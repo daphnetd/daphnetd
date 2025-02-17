@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [armankhondker/awesome-ai-ml-resources](https://github.com/armankhondker/awesome-ai-ml-resources) - Learn AI/ML for beginners with a roadmap and free resources.  (today)
-- [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5) -  (1 day ago)
-- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) -  (3 days ago)
-- [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling (4 days ago)
+- [armankhondker/awesome-ai-ml-resources](https://github.com/armankhondker/awesome-ai-ml-resources) - Learn AI/ML for beginners with a roadmap and free resources.  (1 day ago)
+- [MoonshotAI/Kimi-k1.5](https://github.com/MoonshotAI/Kimi-k1.5) -  (2 days ago)
+- [mshumer/OpenDeepResearcher](https://github.com/mshumer/OpenDeepResearcher) -  (4 days ago)
+- [simplescaling/s1](https://github.com/simplescaling/s1) - s1: Simple test-time scaling (5 days ago)
 - [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations) - How to implement Stripe without going mad (1 week ago)
 - [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (1 week ago)
 - [TengerTechnologies/Bricklayers](https://github.com/TengerTechnologies/Bricklayers) - A processing script for Bricklayers in Prusaslicer and Orcaslicer (1 week ago)
