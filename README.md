@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe) - A bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training. (2 days ago)
+- [deepseek-ai/DualPipe](https://github.com/deepseek-ai/DualPipe) - A bidirectional pipeline parallelism algorithm for computation-communication overlap in V3/R1 training. (3 days ago)
 - [SkyworkAI/SkyReels-V1](https://github.com/SkyworkAI/SkyReels-V1) - SkyReels V1: The first and most advanced open-source human-centric video foundation model (1 week ago)
 - [ArcInstitute/evo2](https://github.com/ArcInstitute/evo2) - Genome modeling and design across all domains of life (1 week ago)
 - [MoonshotAI/MoBA](https://github.com/MoonshotAI/MoBA) - MoBA: Mixture of Block Attention for Long-Context LLMs (1 week ago)
