@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [android/androidify](https://github.com/android/androidify) - Sample app for Androidify (1 day ago)
+- [android/androidify](https://github.com/android/androidify) - Sample app for Androidify (2 days ago)
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api) (1 week ago)
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (1 week ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 weeks ago)
