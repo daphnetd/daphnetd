@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI (1 day ago)
-- [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio. (3 days ago)
-- [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor) - 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。 (4 days ago)
+- [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI (2 days ago)
+- [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio. (4 days ago)
+- [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor) - 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。 (5 days ago)
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (2 weeks ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (2 weeks ago)
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes (3 weeks ago)
