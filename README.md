@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3 (today)
-- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent is the World&#39;s First Multi-agent Workforce to Unlock Your Exceptional Productivity. (1 day ago)
-- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a TypeScript library for building terminal user interfaces (TUIs) (5 days ago)
+- [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3 (1 day ago)
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent is the World&#39;s First Multi-agent Workforce to Unlock Your Exceptional Productivity. (2 days ago)
+- [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a TypeScript library for building terminal user interfaces (TUIs) (6 days ago)
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI (1 week ago)
 - [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio. (1 week ago)
 - [dingyufei615/ai-goofish-monitor](https://github.com/dingyufei615/ai-goofish-monitor) - 基于 Playwright 和AI过滤的闲鱼多任务实时/定时监控与智能分析工具，配备了功能完善的后台管理界面。帮助用户节省闲鱼商品过滤，能及时找到心仪商品。 (1 week ago)
