@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3 (6 days ago)
+- [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) - An orchestrated sub agent dev team powered by claude code (today)
+- [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3 (1 week ago)
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent is the World&#39;s First Multi-agent Workforce to Unlock Your Exceptional Productivity. (1 week ago)
 - [sst/opentui](https://github.com/sst/opentui) - OpenTUI is a TypeScript library for building terminal user interfaces (TUIs) (1 week ago)
 - [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI (2 weeks ago)
@@ -16,7 +17,6 @@
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - &#34;Context engineering is the delicate art and science of filling the context window with just the right information for the next step.&#34; — Andrej Karpathy. A frontier, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. (4 weeks ago)
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes (1 month ago)
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes (1 month ago)
-- [xiao-zaiyi/illa-helper](https://github.com/xiao-zaiyi/illa-helper) - 浸入式学语言助手 (Immersive Language Learning Assistant) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
