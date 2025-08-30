@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! (1 day ago)
-- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (3 days ago)
-- [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming. (5 days ago)
+- [bgreenwell/doxx](https://github.com/bgreenwell/doxx) - Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required! (2 days ago)
+- [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) -  State-of-the-art TTS model under 25MB 😻  (4 days ago)
+- [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming. (6 days ago)
 - [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) - An orchestrated sub agent dev team powered by claude code (1 week ago)
 - [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3 (2 weeks ago)
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent is the World&#39;s First Multi-agent Workforce to Unlock Your Exceptional Productivity. (2 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [seckinyasar](https://github.com/seckinyasar)
 - [nholuongut](https://github.com/nholuongut)
 - [jelspace](https://github.com/jelspace)
 - [Connor9994](https://github.com/Connor9994)
 - [docpainting](https://github.com/docpainting)
+- [moketh](https://github.com/moketh)
 
 #### 💬 Feedback
 
