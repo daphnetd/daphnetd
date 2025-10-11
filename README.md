@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (3 days ago)
+- [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (4 days ago)
 - [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits (1 week ago)
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction (1 week ago)
 - [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input. (1 week ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [kairos1205](https://github.com/kairos1205)
 - [nholuongut](https://github.com/nholuongut)
 - [jelspace](https://github.com/jelspace)
 - [Connor9994](https://github.com/Connor9994)
 - [docpainting](https://github.com/docpainting)
+- [moketh](https://github.com/moketh)
 
 #### 💬 Feedback
 
