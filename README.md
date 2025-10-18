@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (5 days ago)
+- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (today)
+- [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (6 days ago)
 - [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (1 week ago)
 - [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits (2 weeks ago)
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction (2 weeks ago)
@@ -16,7 +17,6 @@
 - [google-gemini/nano-banana-hackathon-kit](https://github.com/google-gemini/nano-banana-hackathon-kit) - 🍌 The official starter kit for the Nano Banana Hackathon. Clone this repo to get building fast! (2 weeks ago)
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (3 weeks ago)
 - [Tencent-Hunyuan/HunyuanWorld-Voyager](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager) - Voyager is an interactive RGBD video generation model conditioned on camera input, and supports real-time 3D reconstruction. (3 weeks ago)
-- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Frontier Open-Source Text-to-Speech (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
