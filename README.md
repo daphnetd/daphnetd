@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac (3 days ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (5 days ago)
-- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (6 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac (4 days ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (6 days ago)
+- [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (1 week ago)
 - [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (1 week ago)
 - [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (2 weeks ago)
 - [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits (3 weeks ago)
