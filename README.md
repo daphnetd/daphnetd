@@ -13,7 +13,7 @@
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (2 weeks ago)
 - [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (2 weeks ago)
 - [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (3 weeks ago)
-- [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (4 weeks ago)
+- [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (1 month ago)
 - [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits (1 month ago)
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction (1 month ago)
 - [jmiao24/Paper2Agent](https://github.com/jmiao24/Paper2Agent) - Paper2Agent is a multi-agent AI system that automatically transforms research papers into interactive AI agents with minimal human input. (1 month ago)
