@@ -8,11 +8,11 @@
 #### ⭐ Recent Stars
 
 - [LittleLittleCloud/RazorConsole](https://github.com/LittleLittleCloud/RazorConsole) - Build interactive console applications with .NET Razor and Spectre.Console (1 week ago)
-- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (1 week ago)
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (2 weeks ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac (2 weeks ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (2 weeks ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (3 weeks ago)
 - [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (3 weeks ago)
-- [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (3 weeks ago)
+- [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (4 weeks ago)
 - [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (1 month ago)
 - [torvalds/GuitarPedal](https://github.com/torvalds/GuitarPedal) - Linus learns analog circuits (1 month ago)
 - [facebookresearch/map-anything](https://github.com/facebookresearch/map-anything) - MapAnything: Universal Feed-Forward Metric 3D Reconstruction (1 month ago)
