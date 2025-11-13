@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code (today)
-- [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。 (2 days ago)
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code (1 day ago)
+- [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。 (3 days ago)
 - [LittleLittleCloud/RazorConsole](https://github.com/LittleLittleCloud/RazorConsole) - Build interactive console applications with .NET Razor and Spectre.Console (2 weeks ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (2 weeks ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac (3 weeks ago)
