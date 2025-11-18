@@ -7,12 +7,12 @@
 
 #### ⭐ Recent Stars
 
-- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code (5 days ago)
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code (6 days ago)
 - [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。 (1 week ago)
 - [LittleLittleCloud/RazorConsole](https://github.com/LittleLittleCloud/RazorConsole) - Build interactive console applications with .NET Razor and Spectre.Console (2 weeks ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (3 weeks ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac (3 weeks ago)
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (4 weeks ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac (4 weeks ago)
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 month ago)
 - [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (1 month ago)
 - [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (1 month ago)
 - [pathwaycom/bdh](https://github.com/pathwaycom/bdh) - Baby Dragon Hatchling (BDH) – Architecture and Code (1 month ago)
