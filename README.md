@@ -7,12 +7,12 @@
 
 #### ⭐ Recent Stars
 
-- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server &amp; CLI – run locally without Python. (today)
+- [TimmyOVO/deepseek-ocr.rs](https://github.com/TimmyOVO/deepseek-ocr.rs) - Rust multi‑backend OCR/VLM engine (DeepSeek‑OCR, PaddleOCR‑VL, DotsOCR) with DSQ quantization and an OpenAI‑compatible server &amp; CLI – run locally without Python. (1 day ago)
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code (1 week ago)
 - [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ，支持本地中文输入法，支持AMD64和ARM64。 (1 week ago)
 - [LittleLittleCloud/RazorConsole](https://github.com/LittleLittleCloud/RazorConsole) - Build interactive console applications with .NET Razor and Spectre.Console (3 weeks ago)
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy. (3 weeks ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac (4 weeks ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac (1 month ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 month ago)
 - [ginobefun/agentic-design-patterns-cn](https://github.com/ginobefun/agentic-design-patterns-cn) - 《Agentic Design Patterns》中文翻译版 (1 month ago)
 - [openai/chatkit-js](https://github.com/openai/chatkit-js) -  (1 month ago)
