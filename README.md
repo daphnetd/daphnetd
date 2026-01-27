@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI (6 days ago)
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI (1 week ago)
 - [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-failover for AI coding tools like Claude Code, OpenCode, and Droid. (1 week ago)
 - [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) - Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model. (1 week ago)
 - [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) -  (2 weeks ago)
