@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
-- [mikechiloane](https://github.com/mikechiloane)
 - [standardgalactic](https://github.com/standardgalactic)
 - [helallao](https://github.com/helallao)
 - [nholuongut](https://github.com/nholuongut)
 - [jelspace](https://github.com/jelspace)
+- [Connor9994](https://github.com/Connor9994)
 
 #### 💬 Feedback
 
