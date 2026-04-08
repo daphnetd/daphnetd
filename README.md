@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (5 days ago)
+- [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (6 days ago)
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents (1 week ago)
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) - &#34;ClawTeam: Agent Swarm Intelligence&#34; (One Command → Full Automation) (1 week ago)
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click (1 week ago)
