@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动 (4 days ago)
+- [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动 (5 days ago)
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - &#34;OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!&#34; (1 week ago)
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source alternative to Screen Studio. (1 week ago)
 - [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material (2 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [0xhustlerr](https://github.com/0xhustlerr)
 - [S4IL21](https://github.com/S4IL21)
 - [standardgalactic](https://github.com/standardgalactic)
 - [nholuongut](https://github.com/nholuongut)
 - [jelspace](https://github.com/jelspace)
-- [Connor9994](https://github.com/Connor9994)
 
 #### 💬 Feedback
 
