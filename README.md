@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents. (4 days ago)
+- [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents. (5 days ago)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (1 week ago)
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (1 week ago)
 - [theori-io/copy-fail-CVE-2026-31431](https://github.com/theori-io/copy-fail-CVE-2026-31431) - Copy Fail (CVE-2026-31431): 9-year-old Linux kernel LPE found by Theori&#39;s Xint Code (1 week ago)
