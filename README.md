@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design (2 days ago)
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design (3 days ago)
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents. (1 week ago)
 - [tw93/Kami](https://github.com/tw93/Kami) - 👩‍🚒 Good content deserves good paper. (2 weeks ago)
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (2 weeks ago)
