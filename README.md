@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js) - JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust. (2 days ago)
-- [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) - A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user&#39;s behalf, automatically. (5 days ago)
+- [unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js) - JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust. (3 days ago)
+- [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) - A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user&#39;s behalf, automatically. (6 days ago)
 - [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative (1 week ago)
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider. (1 week ago)
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design (2 weeks ago)
