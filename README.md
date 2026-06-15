@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents (1 day ago)
+- [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents (2 days ago)
 - [unicity-astrid/sdk-js](https://github.com/unicity-astrid/sdk-js) - JavaScript / TypeScript SDK for building Astrid OS capsules. Companion to unicity-astrid/sdk-rust. (1 week ago)
 - [zarazhangrui/beautiful-html-templates](https://github.com/zarazhangrui/beautiful-html-templates) - A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user&#39;s behalf, automatically. (1 week ago)
 - [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative (2 weeks ago)
