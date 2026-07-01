@@ -7,6 +7,7 @@
 
 #### ⭐ Recent Stars
 
+- [makerspet/oomwoo](https://github.com/makerspet/oomwoo) - Open-source vacuum robot cleaner (today)
 - [Sophomoresty/gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) - Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file. (1 week ago)
 - [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code &amp; more. Produce polished UI mockups, prototypes, decks &amp; wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8. (1 week ago)
 - [GordenSun/GordenPPTSkill](https://github.com/GordenSun/GordenPPTSkill) - AI-friendly PPT builder skill: 17 hand-polished Chinese PPTX templates &#43; non-destructive text-only editing tools (python-pptx based). Pick a template, write edits.json, build a real .pptx with the layout intact. Personal/research use only. (1 week ago)
@@ -16,7 +17,6 @@
 - [simplifaisoul/osiris](https://github.com/simplifaisoul/osiris) - Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative -            We Get 0.5% on Volume Traded        2nZNHm3Lr9umG3DVrzYwHgktwkuKuJRXqqRqs3ewpump  (1 month ago)
 - [nexu-io/html-anything](https://github.com/nexu-io/html-anything) - ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider. (1 month ago)
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design (1 month ago)
-- [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
