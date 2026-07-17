@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1) -  (1 day ago)
-- [oso95/scroll-world](https://github.com/oso95/scroll-world) - A skill that turn any brand into a scrollable 3D world (2 days ago)
+- [deepreinforce-ai/Ornith-1](https://github.com/deepreinforce-ai/Ornith-1) -  (2 days ago)
+- [oso95/scroll-world](https://github.com/oso95/scroll-world) - A skill that turn any brand into a scrollable 3D world (3 days ago)
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card  (1 week ago)
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 week ago)
 - [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) -  (1 week ago)
