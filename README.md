@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 (1 day ago)
-- [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) - 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 (6 days ago)
+- [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 (2 days ago)
+- [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) - 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 (1 week ago)
 - [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file (1 week ago)
 - [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) - Open Frontier Intelligence (1 week ago)
 - [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build a great interface. (2 weeks ago)
