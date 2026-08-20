@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) - Make any agent harness multimodal-native. (today)
-- [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 (3 days ago)
+- [QwenLM/Qwen-MM-Plugins](https://github.com/QwenLM/Qwen-MM-Plugins) - Make any agent harness multimodal-native. (1 day ago)
+- [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 (4 days ago)
 - [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) - 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 (1 week ago)
 - [nyblnet/bento](https://github.com/nyblnet/bento) - Bento, the office suite that fits in a file (1 week ago)
 - [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) - Open Frontier Intelligence (1 week ago)
