@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [Mak5er/AirCard](https://github.com/Mak5er/AirCard) - Apple Wallet Card Skinner for iOS 18&#43; (No Jailbreak Required) (1 day ago)
-- [Mantitup-Org/vista](https://github.com/Mantitup-Org/vista) -  (2 days ago)
+- [Mak5er/AirCard](https://github.com/Mak5er/AirCard) - Apple Wallet Card Skinner for iOS 18&#43; (No Jailbreak Required) (2 days ago)
+- [Mantitup-Org/vista](https://github.com/Mantitup-Org/vista) -  (3 days ago)
 - [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included. (1 week ago)
 - [ashemag/human-atlas](https://github.com/ashemag/human-atlas) - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. (1 week ago)
-- [jub0t/Concat](https://github.com/jub0t/Concat) - The truly free, and open-source cross-platform CapCut replacement (supports MCPs). (1 week ago)
+- [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, and open-source cross-platform CapCut replacement (supports MCPs). (2 weeks ago)
 - [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) - 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency. (2 weeks ago)
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows. (2 weeks ago)
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) - A privacy-first app that strips AI watermarks from content you own. (3 weeks ago)
