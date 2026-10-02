@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [Mak5er/AirCard](https://github.com/Mak5er/AirCard) - Apple Wallet Card Skinner for iOS 18&#43; (No Jailbreak Required) (3 days ago)
-- [Mantitup-Org/vista](https://github.com/Mantitup-Org/vista) -  (4 days ago)
+- [Mak5er/AirCard](https://github.com/Mak5er/AirCard) - Apple Wallet Card Skinner for iOS 18&#43; (No Jailbreak Required) (4 days ago)
+- [Mantitup-Org/vista](https://github.com/Mantitup-Org/vista) -  (5 days ago)
 - [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) - Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included. (1 week ago)
 - [ashemag/human-atlas](https://github.com/ashemag/human-atlas) - Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views. (1 week ago)
 - [jub0t/Concat](https://github.com/jub0t/Concat) - Beta: The truly free, and open-source cross-platform CapCut replacement (supports MCPs). (2 weeks ago)
