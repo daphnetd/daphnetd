@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) - Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时 (2 days ago)
-- [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System (3 days ago)
-- [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 (5 days ago)
+- [RoutineMiku/apkstart](https://github.com/RoutineMiku/apkstart) - Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时 (3 days ago)
+- [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) - Towards a More Autonomous Agent System (4 days ago)
+- [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。 (6 days ago)
 - [unclebob/ub-mode](https://github.com/unclebob/ub-mode) -  (1 week ago)
 - [Zagitta/gpu-unlock](https://github.com/Zagitta/gpu-unlock) - Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput (1 week ago)
 - [storytold/gridcraft](https://github.com/storytold/gridcraft) - GridCraft: an open-source, clean-room spreadsheet in pure Rust. By ArtCraft. (3 weeks ago)
@@ -23,8 +23,8 @@
 - [Git-FED](https://github.com/Git-FED)
 - [kpopdev](https://github.com/kpopdev)
 - [IDouble](https://github.com/IDouble)
-- [0xhustlerr](https://github.com/0xhustlerr)
 - [S4IL21](https://github.com/S4IL21)
+- [standardgalactic](https://github.com/standardgalactic)
 
 #### 💬 Feedback
 
